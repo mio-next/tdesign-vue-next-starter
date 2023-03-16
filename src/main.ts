@@ -7,7 +7,6 @@ import router from './router';
 import '@/style/index.less';
 import './permission';
 import App from './App.vue';
-import '@/style/theme-generator.less';
 
 import 'tdesign-theme-generator';
 
